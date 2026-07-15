@@ -1,9 +1,5 @@
 # 🎵 90s Music Recognition Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
 ---
 
 ## 📌 Project Overview
@@ -80,8 +76,7 @@ The dataset includes the following information:
 
 > Add your dashboard screenshot below.
 
-![Dashboard](<img width="1220" height="683" alt="Screenshot 2026-07-15 213808" src="https://github.com/user-attachments/assets/457289ec-fc46-44f7-9dea-e48f0ee8ec67" />
-   )
+![Dashboard](dashboard.png)
 
 ---
 
